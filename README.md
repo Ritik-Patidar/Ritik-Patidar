@@ -5,7 +5,7 @@ Web Developer And Android Developer
 -----------------------------------
 
 * ✉️  You can reach me at 👉 <a href="https://www.linkedin.com/in/ritik-patidar" target="_blank" rel="noreferrer"><img src="https://github.com/Ritik-Patidar/Ritik-Patidar/blob/main/LinkedIn.svg" width="84" height="24"  /></a>
-* 🧠  I'm learning React Native
+
 
 ### Skills
 
