@@ -62,5 +62,5 @@ Software Developer
 <br /><br /><br /><br />
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Ritik-Patidar&icon=2&color=1)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=Ritik-Patidar&icon=2&color=1)
 
